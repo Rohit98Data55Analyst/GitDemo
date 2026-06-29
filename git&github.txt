@@ -42,3 +42,6 @@ in VS Code terminal
 
 To create a new branch
 git checkout -b "branch name"
+
+To switch branch 
+git checkout "branchname"
