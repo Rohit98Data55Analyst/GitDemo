@@ -38,3 +38,7 @@ in VS Code terminal
 >>git commit -m "Commit Message" (// to commit these uploads)
 
 >>git push --set-upstream origin main (// set where you have to push these files)
+
+
+To create a new branch
+git checkout -b "branch name"
