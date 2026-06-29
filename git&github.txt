@@ -1,0 +1,40 @@
+Git >> Version Control
+
+v1
+v2
+v3
+new v4
+
+>> I  is distributed (on cloud)
+>> Collaboration
+>>Tracking Changes
+>>Recovery
+
+https://git-scm.com//downloads
+
+Github
+Bituckets
+GitLabs
+Gitpod
+
+>> For first time need to configue github in our system
+git config --global user.naame "Rohit98Data55Analyst"
+git config --global user.email "rohittechsavy@gmail.com"
+
+git config --global color.ui auto
+
+Mandatory Commands:
+git init
+git remote add origin "https://github.com/Rohit98Data55Analyst/GitDemo.git"
+
+in VS Code terminal
+>>git pull origin main  (// for connection to get READMe file in vs code )
+>>git status (// to get updated data in READMe file)
+
+
+
+>>git add . (// to upload all files fron vs code to github)
+
+>>git commit -m "Commit Message" (// to commit these uploads)
+
+>>git push --set-upstream origin main (// set where you have to push these files)
